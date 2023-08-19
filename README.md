@@ -2,9 +2,9 @@
 
 ### Content
 
-- TrainerV
+- TrainerV :
   `TrainerV.asi`, `trainerv.ini`
-- ScriptHookDotNet
+- ScriptHookDotNet :
   `ScriptHookVDotNet.asi`, `ScriptHookVDotNet.ini`, `ScriptHookVDotNet2.xml`, `ScriptHookVDotNet3.xml`, `ScriptHookVDotNet2.dll`, `ScriptHookVDotNet3.dll`.
-- ScriptHookV
+- ScriptHookV :
   `ScriptHookV.dll`, `dinput8.dll`
